@@ -1,0 +1,10 @@
+<block><id: item 1245 condition 100 list 2 order 1>Viele Leukämiekranke hatten eine Chance auf Heilung, nachdem ein neues Medikament auf den Markt kam.</id><id: item 1245 condition 100></id></block>
+<block><id: item 1124 condition 100 list 2 order 2>Das Boot patrouillierte in der Narva-Bucht, aber nicht in der Nordsee.</id><id: item 1124 condition 100></id></block>
+<block><id: item 1214 condition 100 list 2 order 3>Diese Kirche war ein denkmalgeschütztes Gebäude, aber wurde trotzdem abgerissen.</id><id: item 1214 condition 100></id></block>
+<block><id: item 48 condition 3 list 2 order 4>Lukas verhielt sich überrascht, und zwar um seine Freunde nicht zu enttäuschen.</id><id: item 48 condition 3>Hat Lukas in dieser Situation sein Verhalten absichtlich angepasst?</id></block>
+<block><id: item 1104 condition 100 list 2 order 5>Der Musiker plante keine Abschiedstour, während seine Fans noch darauf hofften.</id><id: item 1104 condition 100></id></block>
+<block><id: item 1165 condition 100 list 2 order 6>Die Familie stieg in den Minibus, nachdem sie ihr großes Auto verkauft hatte.</id><id: item 1165 condition 100></id></block>
+<block><id: item 1199 condition 100 list 2 order 7>Die Senioren trauten sich kaum vor die Tür, wobei die Polizei Entwarnung gegeben hatte.</id><id: item 1199 condition 100></id></block>
+<block><id: item 1230 condition 100 list 2 order 8>Im Parlament gab es einige Wechsel, wobei es dafür auch Zeit war.</id><id: item 1230 condition 100></id></block>
+<block><id: item 1069 condition 100 list 2 order 9>Renate lächelte ihre Mutter an, bevor sie in den Zug stieg.</id><id: item 1069 condition 100></id></block>
+<block><id: item 57 condition 2 list 2 order 10>Robin war zielbewusst, und zwar weil das Studium ihn das gelehrt hatte.</id><id: item 57 condition 2>Hat Robin in dieser Situation sein Verhalten absichtlich angepasst?</id></block>

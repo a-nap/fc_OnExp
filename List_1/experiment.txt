@@ -1,0 +1,10 @@
+<block><id: item 1181 condition 100 list 1 order 1>Die Hunde vertrugen sich nicht, wobei das die Besitzer nicht störte.</id><id: item 1181 condition 100>placeholder</id></block>
+<block><id: item 1094 condition 100 list 1 order 2>Die Prinzessin verabschiedete sich von dem Ritter, aber weinte dieses Mal nicht.</id><id: item 1094 condition 100>placeholder</id></block>
+<block><id: item 1159 condition 100 list 1 order 3>Die Delegierten trauten sich nicht zu trinken, wobei es ihnen eigentlich erlaubt war.</id><id: item 1159 condition 100>placeholder</id></block>
+<block><id: item 19 condition 3 list 1 order 4>Leonie verhielt sich gutgläubig, und zwar um ihre Naivität als Alibi zu nutzen.</id><id: item 19 condition 3>Hat Leonie in dieser Situation ihr Verhalten absichtlich angepasst?</id></block>
+<block><id: item 1157 condition 100 list 1 order 5>Die Beobachter bildeten sich ein eigenes Urteil, wobei sie von der Presse beobachtet wurden.</id><id: item 1157 condition 100>placeholder</id></block>
+<block><id: item 1075 condition 100 list 1 order 6>Sven zog um, nachdem es zu einem Wasserschaden in seiner Wohnung gekommen war.</id><id: item 1075 condition 100>placeholder</id></block>
+<block><id: item 1013 condition 100 list 1 order 7>Christian machte sich Sorgen, bevor er die Polizei rief.</id><id: item 1013 condition 100>placeholder</id></block>
+<block><id: item 1079 condition 100 list 1 order 8>Utsutsu Mujuru war ein exzellenter Schwertkämpfer, während er überhaupt nicht kochen konnte.</id><id: item 1079 condition 100>placeholder</id></block>
+<block><id: item 45 condition 1 list 1 order 9>Klaus war taktvoll, und zwar um Rücksicht auf andere zu nehmen.</id><id: item 45 condition 1>Hat Klaus in dieser Situation sein Verhalten absichtlich angepasst?</id></block>
+<block><id: item 1092 condition 100 list 1 order 10>Die Kanzlerin äußerte sich dazu, bevor sie eine offizielle Pressekonferenz gab.</id><id: item 1092 condition 100>placeholder</id></block>

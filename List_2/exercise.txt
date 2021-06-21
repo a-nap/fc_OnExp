@@ -1,0 +1,11 @@
+<block><random>
+<block><id: item 1001 condition 0>In Internetforen diskutierten Eltern, bevor sie mit den Lehrern sprachen.</id><id: item 1001 condition 1001>Sprachen die Eltern mit den Lehrern?</id></block>
+<block><id: item 1002 condition 0>Beide Einrichtungen wurden von Freiwilligen betrieben, wobei es bei der Buchhaltung haperte.</id><id: item 1002 condition 1002>Haperte es an der Buchhaltung?</id></block>
+<block><id: item 1003 condition 0>Das Fruchtfleisch war gelblichweiß, bevor die Frucht reif war.</id><id: item 1003 condition 1003>War das Fruchtfleich rot?</id></block>
+<block><id: item 1004 condition 0>Das Kind klagte über Schmerzen, während die Mutter Milchreis kochte.</id><id: item 1004 condition 1004>Kochte die Mutter Milchreis?</id></block>
+<block><id: item 1005 condition 0>Das Paar hatte vier Kinder, aber wollte nur zwei.</id><id: item 1001 condition 1005>Wollte das Paar vier Kinder haben?</id></block>
+<block><id: item 1006 condition 0>Das Team wollte jedes Spiel gewinnen, während es dem Trainer egal war.</id><id: item 1002 condition 1006>War es dem Trainer wichtig, jedes Spiel zu gewinnen?</id></block>
+<block><id: item 1007 condition 0>Der Bundesrat schien sich zu treffen, während die Journalisten vor der Türe warteten.</id><id: item 1003 condition 1007>Warteten die Journalisten in einer Bar?</id></block>
+<block><id: item 1008 condition 0>Die UN ruften Myanmar dazu auf, die Verfolgung der Rohingya zu beenden.</id><id: item 1004 condition 1008>Interessierte sich die UN für die Rohingya?</id></block>
+<block><id: item 1009 condition 0>Der Schwerpunkt änderte sich, während der Radrennfahrer zur Seite kippte.</id><id: item 1004 condition 1009>Blieb der Schwerpunkt gleich, egal was der Radrennfahrer machte?</id></block>
+</block>
